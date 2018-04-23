@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="612px" height="80.348px" viewBox="0 360.726 612 80.348" enable-background="new 0 360.726 612 80.348"
+	 xml:space="preserve">
+<g>
+	<polygon fill="#406067" points="54.957,441.073 19.817,420.834 19.638,380.66 54.599,360.726 89.737,380.965 89.917,421.14 	"/>
+	<polygon fill="#406067" points="55.687,362.997 55.687,435.253 87.368,417.189 87.368,381.061 	"/>
+	<polygon fill="#61C7D0" points="24.005,381.061 24.005,417.189 55.687,435.253 55.687,362.997 	"/>
+	<g>
+		<rect x="37.785" y="408.429" fill="#406067" width="3.168" height="19.427"/>
+	</g>
+	<polygon fill="none" points="70.419,407.525 70.419,390.725 55.687,382.325 55.687,415.926 	"/>
+	<polygon fill="none" points="40.954,390.725 40.954,407.525 55.686,415.926 55.687,415.926 55.687,382.325 55.686,382.325 	"/>
+	<polygon fill="#61C7D0" points="73.587,388.917 55.687,378.71 55.687,382.325 70.419,390.725 70.419,407.525 55.687,415.926 
+		55.687,419.538 73.587,409.332 	"/>
+	<polygon fill="#406067" points="55.686,415.926 40.954,407.525 40.954,390.725 55.686,382.325 55.687,382.325 55.687,378.71 
+		55.686,378.71 37.785,388.917 37.785,409.332 55.686,419.538 55.687,419.538 55.687,415.926 	"/>
+	
+		<text transform="matrix(0.8709 -0.5039 0.5102 0.8601 42.1436 389.5332)" fill="#61C7D0" font-family="'Tahoma-Bold'" font-size="2.7073">01010000</text>
+	
+		<text transform="matrix(0.8717 0.5025 -0.5088 0.8609 57.3945 382.5742)" fill="#406067" font-family="'Tahoma-Bold'" font-size="2.7072">01001001</text>
+	
+		<text transform="matrix(-0.001 0.9876 -1 -0.001 71.0205 392.0439)" fill="#406067" font-family="'Tahoma-Bold'" font-size="2.7325">01001110</text>
+	
+		<text transform="matrix(-0.8739 0.4989 -0.5052 -0.863 69.2607 408.8848)" fill="#406067" font-family="'Tahoma-Bold'" font-size="2.7071">01000100</text>
+	
+		<text transform="matrix(-0.876 -0.4954 0.5016 -0.8651 54.376 415.748)" fill="#61C7D0" font-family="'Tahoma-Bold'" font-size="2.707">01000001</text>
+	
+		<text transform="matrix(-8.888311e-005 -0.9876 1 -9.000001e-005 40.2534 405.8975)" fill="#61C7D0" font-family="'Tahoma-Bold'" font-size="2.7325">01010010</text>
+	<polygon fill="#61C7D0" points="55.687,428.843 81.779,413.979 81.779,384.252 55.687,369.389 55.686,369.389 55.686,362.997 
+		55.687,362.997 87.391,381.055 87.391,417.176 55.687,435.234 55.686,435.234 55.686,428.843 	"/>
+</g>
+<text transform="matrix(1 0 0 1 101.6646 423.6963)" fill="#61C7D0" stroke="#000000" stroke-miterlimit="10" font-family="'PalatinoLinotype-Roman'" font-size="64.053">DarKen Template</text>
+</svg>
